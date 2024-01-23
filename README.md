@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm Vinícius Carneiro de Brito, a seasoned Senior
 - 🎓 Bachelor's in Analysis and Systems Development.
 - 💻 Full-Stack Engineer with expertise in Java, Kotlin, RESTful services, Spring Boot, and AWS.
 - 🌐 [LinkedIn](https://www.linkedin.com/in/viniciuscarneirodebrito/)
-- 📧 viniciuscbrito89@gmail.com
 
 ## 💬 Let's Connect!
 
